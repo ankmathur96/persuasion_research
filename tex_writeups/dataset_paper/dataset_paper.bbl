@@ -1,0 +1,252 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{Artstein:2008:IAC:1479202.1479206}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Artstein}{A.}%
+     {Ron}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Poesio}{P.}%
+     {Massimo}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {MIT Press}%
+  }
+  \strng{namehash}{ARPM1}
+  \strng{fullhash}{ARPM1}
+  \field{sortinit}{A}
+  \verb{doi}
+  \verb 10.1162/coli.07-034-R2
+  \endverb
+  \field{issn}{0891-2017}
+  \field{number}{4}
+  \field{pages}{555\bibrangedash 596}
+  \field{title}{Inter-coder Agreement for Computational Linguistics}
+  \verb{url}
+  \verb http://dx.doi.org/10.1162/coli.07-034-R2
+  \endverb
+  \field{volume}{34}
+  \list{location}{1}{%
+    {Cambridge, MA, USA}%
+  }
+  \field{journaltitle}{Comput. Linguist.}
+  \field{month}{12}
+  \field{year}{2008}
+\endentry
+
+\entry{barberio2006}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Barberio}{B.}%
+     {Richard}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lowe}{L.}%
+     {Brian}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BRLB1}
+  \strng{fullhash}{BRLB1}
+  \field{sortinit}{B}
+  \field{title}{Branding: Presidential politics and crafted political
+  communications}
+  \field{journaltitle}{Annual Meeting of the American Political Science
+  Association}
+  \field{year}{2006}
+\endentry
+
+\entry{brader2005}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Brader}{B.}%
+     {Ted}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BT1}
+  \strng{fullhash}{BT1}
+  \field{sortinit}{B}
+  \field{title}{Striking a Responsive Chord: How Political Ads Motivate and
+  Persuade Voters by Appealing to Emotions}
+  \field{journaltitle}{The American Journal of Political Science}
+  \field{year}{2005}
+\endentry
+
+\entry{carson2011}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Carson}{C.}%
+     {Jamie~L.}{J.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jenkins}{J.}%
+     {Jeffrey~A.}{J.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CJLJJA1}
+  \strng{fullhash}{CJLJJA1}
+  \field{sortinit}{C}
+  \field{title}{Examining the Electoral Connection across Time}
+  \field{journaltitle}{Annual Review of Political Science, Vol. 14, pp. 25-46,
+  2011}
+  \field{year}{2011}
+\endentry
+
+\entry{conway2007}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Conway}{C.}%
+     {Mike}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Grabe}{G.}%
+     {Maria~Elizabeth}{M.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Grieves}{G.}%
+     {Kevin}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CMGMEGK1}
+  \strng{fullhash}{CMGMEGK1}
+  \field{sortinit}{C}
+  \field{title}{VILLAINS, VICTIMS AND THE VIRTUOUS IN BILL O’REILLY’S
+  ‘‘NO-SPIN ZONE’’, Revisiting world war propaganda techniques}
+  \field{journaltitle}{Journalism Studies, Vol. 8, No 2}
+  \field{year}{2007}
+\endentry
+
+\entry{gassPersuasion}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Gass}{G.}%
+     {Robert~H.}{R.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Selter}{S.}%
+     {John~S}{J.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GRHSJS1}
+  \strng{fullhash}{GRHSJS1}
+  \field{sortinit}{G}
+  \field{title}{Persuasion: Social Influence and Compliance Gaining}
+  \field{year}{2007}
+\endentry
+
+\entry{guerini2010}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Guerini}{G.}%
+     {Marco}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Giampiccolo}{G.}%
+     {Danilo}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Moretti}{M.}%
+     {Giovanni}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sprugnoli}{S.}%
+     {Rachele}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Strapparava}{S.}%
+     {Carlo}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GM+1}
+  \strng{fullhash}{GMGDMGSRSC1}
+  \field{sortinit}{G}
+  \field{title}{The New Release of CORPS: A Corpus of Political Speeches
+  Annotatated with Audience Reactions}
+  \field{journaltitle}{LNAI}
+  \field{year}{2010}
+\endentry
+
+\entry{kaid2000}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kaid}{K.}%
+     {Lynda~Lee}{L.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KLL1}
+  \strng{fullhash}{KLL1}
+  \field{sortinit}{K}
+  \field{title}{Ethics and Political Advertising}
+  \field{journaltitle}{Political Communication Ethics: An Oxymoron?}
+  \field{year}{2000}
+\endentry
+
+\entry{mayhew1974}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Mayhew}{M.}%
+     {David~R.}{D.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MDR1}
+  \strng{fullhash}{MDR1}
+  \field{sortinit}{M}
+  \field{title}{Congress: The Electoral Connection}
+  \field{year}{1974}
+\endentry
+
+\entry{millerPropaganda}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Miller}{M.}%
+     {Clyde}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MC1}
+  \strng{fullhash}{MC1}
+  \field{sortinit}{M}
+  \field{title}{How to Detect Propaganda}
+  \field{year}{1938}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
