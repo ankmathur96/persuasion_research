@@ -10,9 +10,9 @@ full_dataset = []
 DATA_FILES = 'all_data/'
 SPEECH_CORPUS = '../fetch_data/output/'
 TOP_K = 20
-EXPANSION_DISTANCE = 2
-A_1 = 0.8
-A_2 = 0.2
+EXPANSION_DISTANCE = 3
+A_1 = 0.7
+A_2 = 0.3
 # labels = ['Name_Calling']
 labels = ['Name_Calling','Glittering_Generalities','Testimonial','Plain_Folks','Credit_Claiming','Stereotyping','Slogans','Humor','Warmth','Patriotism','Repetition','Fear','Emotional_Anecdotes','Bandwagon', 'Transfer']
 IRRElEVANT_WORDS = {'and', 'or', 'if', 'the', 'a', 'an', 'of', 'they', 'are', 'this', 'that', 'hillary', 'donald', 'she', 'is', 'to', 'in', 'was', 'my', 'we', 'who', 'so', 'i', 'there', 'on'}
@@ -189,7 +189,7 @@ def classify_dataset(corpus, category_core_clusters, category_expanded_clusters)
     for sentence in corpus:
         result = classify(category_core_clusters, category_expanded_clusters, sentence[2])
         label_index = labels.index(sentence[1])
-        top_3 = heapq.nlargest(3, range(len(result)), result.take)
+        top_3 = heapq.nlargest(1, range(len(result)), result.take)
         if label_index in top_3:
             correct += 1
     accuracy = correct / len(corpus)
